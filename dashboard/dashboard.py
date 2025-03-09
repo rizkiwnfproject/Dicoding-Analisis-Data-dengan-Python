@@ -48,7 +48,7 @@ def categorize_rentals(cnt, avg):
 
 ######### Sidebar Filter
 # add logo
-st.sidebar.image("logo.jpeg", use_container_width=True)
+st.sidebar.image("dashboard/logo.jpeg", use_container_width=True)
 st.sidebar.header("Range Date")
 start_date, end_date = st.sidebar.date_input("Choose the range date : ", [day_df["dteday"].min(), day_df["dteday"].max()])
 
