@@ -24,5 +24,8 @@ Masuk kedalam folder submission -> dashboard, kemudian jalankan :
   $ streamlit run dashboard.py
   ```
 
-## Run steamlit app
+## Run steamlit app on browser
+  ```bash
+  https://rizkiwnfanlpython.streamlit.app/
+  ```
     
