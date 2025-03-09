@@ -6,7 +6,7 @@ import seaborn as sns
 sns.set(style='white')
 
 # Load Data
-day_df = pd.read_csv("main_data.csv")
+day_df = pd.read_csv("dashboard/main_data.csv")
 # Convert to datetime
 day_df["dteday"] = pd.to_datetime(day_df["dteday"])
 
