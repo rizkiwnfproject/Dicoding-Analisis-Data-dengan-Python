@@ -18,7 +18,7 @@ A brief description of what this project does and who it's for
   $ pip install numpy pandas matplotlib seaborn
   ```
 
-## Run steamlit app
+## Run steamlit app on local device
 Masuk kedalam folder submission -> dashboard, kemudian jalankan : 
   ```bash
   $ streamlit run dashboard.py
